@@ -2,7 +2,6 @@
 using python and web scraping for getting daily cyber security news
 
 # Cyber Security News Web Scraping Project
-
 This Python project is dedicated to keeping users updated on cyber security news efficiently. It employs web scraping techniques to gather daily cyber security news from various sources and presents them in an HTML file. The primary objective is to streamline the process of accessing relevant cyber security information, ultimately saving users time and effort.
 
 ## Importance
